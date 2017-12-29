@@ -1,4 +1,4 @@
-package com.example.srilakshmip.yamyahapp;
+package com.example.srirama.yamyahapp;
 
 /**
  * Created by SRILAKSHMI.P on 18-12-2017.
